@@ -1,0 +1,43 @@
+[
+    {
+        "model-name": "Rubro",
+        "resource-file": "rubros.json"
+    },
+    {
+        "model-name": "Articulo",
+        "resource-file": "articulos.json"
+    },
+    {
+        "model-name": "Cliente",
+        "resource-file": "clientes.json"
+    },
+    {
+        "model-name": "Factura",
+        "resource-file": "facturas.json"
+    },
+    {
+        "model-name": "Detalle",
+        "resource-file": "detalles.json"
+    },
+    {
+        "model-name": "puntoventa",
+        "resource-file": "puntoventas.json"
+    },
+    {
+        "model-name": "Sistema",
+        "resource-file": "sistemas.json"
+    },
+    {
+        "model-name": "stock",
+        "resource-file": "stocks.json"
+    },
+    {
+        "model-name": "lista",
+        "resource-file": "listas.json",
+        "table-name": "listas"
+    },
+    {
+        "model-name": "Lista",
+        "resource-file": "listas.json"
+    }
+]

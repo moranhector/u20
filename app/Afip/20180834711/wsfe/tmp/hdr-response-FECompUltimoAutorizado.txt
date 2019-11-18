@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Tue, 05 Nov 2019 17:53:25 GMT
+MicrosoftOfficeWebServer: 5.0_Pub
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Cache-Control: private, max-age=0
+Content-Type: application/soap+xml; charset=utf-8
+Content-Length: 674
+Set-Cookie: TS01983a04=01f60834d2f3b70cd62208fdd86dd5ac48a73ca710405128d2ec916d47674043c96f93f372; Path=/
